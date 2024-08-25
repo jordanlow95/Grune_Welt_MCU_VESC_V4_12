@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=GND Pin=SP1-2
+Removed Member From Class: ClassName=Power Stage Member=SP1
+Added Pin To Net: NetName=GND Pin=C47-1
+Added Pin To Net: NetName=GND Pin=C48-1
+Added Pin To Net: NetName=GND Pin=C49-1
+Added Pin To Net: NetName=GND Pin=P1-P?
+Added Pin To Net: NetName=GND Pin=Q6-2
+Added Pin To Net: NetName=GND Pin=Q6-3
+Added Pin To Net: NetName=GND Pin=Q6-5
+Added Pin To Net: NetName=GND Pin=Q6-6
+Added Pin To Net: NetName=GND Pin=Q6-7
+Added Pin To Net: NetName=GND Pin=R42-1
+Added Pin To Net: NetName=GND Pin=R43-1
+Added Pin To Net: NetName=GND Pin=U2-39
+Change Net Name : Old Net Name=GND New Net Name=H2_LOW

@@ -1,0 +1,28 @@
+Removed Pin From Net: NetName=H2_LOW Pin=C47-1
+Removed Pin From Net: NetName=H2_LOW Pin=C48-1
+Removed Pin From Net: NetName=H2_LOW Pin=C49-1
+Removed Pin From Net: NetName=H2_LOW Pin=P1-P?
+Removed Pin From Net: NetName=H2_LOW Pin=Q6-2
+Removed Pin From Net: NetName=H2_LOW Pin=Q6-3
+Removed Pin From Net: NetName=H2_LOW Pin=Q6-5
+Removed Pin From Net: NetName=H2_LOW Pin=Q6-6
+Removed Pin From Net: NetName=H2_LOW Pin=Q6-7
+Removed Pin From Net: NetName=H2_LOW Pin=R42-3
+Removed Pin From Net: NetName=H2_LOW Pin=R43-3
+Removed Pin From Net: NetName=H2_LOW Pin=SP1-1
+Removed Pin From Net: NetName=H2_LOW Pin=U2-39
+Change Net Name : Old Net Name=H2_LOW New Net Name=GND
+Added Pin To Net: NetName=H2_LOW Pin=C47-1
+Added Pin To Net: NetName=H2_LOW Pin=C48-1
+Added Pin To Net: NetName=H2_LOW Pin=C49-1
+Added Pin To Net: NetName=H2_LOW Pin=P1-P?
+Added Pin To Net: NetName=H2_LOW Pin=Q6-2
+Added Pin To Net: NetName=H2_LOW Pin=Q6-3
+Added Pin To Net: NetName=H2_LOW Pin=Q6-5
+Added Pin To Net: NetName=H2_LOW Pin=Q6-6
+Added Pin To Net: NetName=H2_LOW Pin=Q6-7
+Added Pin To Net: NetName=H2_LOW Pin=R42-3
+Added Pin To Net: NetName=H2_LOW Pin=R43-3
+Added Pin To Net: NetName=H2_LOW Pin=SP1-1
+Added Pin To Net: NetName=H2_LOW Pin=U2-39
+Added Net: Name=H2_LOW

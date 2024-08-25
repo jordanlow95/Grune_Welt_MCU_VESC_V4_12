@@ -1,0 +1,119 @@
+Change Component Footprint: Designator=R42 Old Footprint=FP-CSS4J-4026-MFG New Footprint=WSLP27265L000FEA
+Change Component Footprint: Designator=R43 Old Footprint=FP-CSS4J-4026-MFG New Footprint=WSLP27265L000FEA
+Change Component Comment : Designator=R17 Old Comment=1MO New Comment=RC0603FR-071ML
+Change Component Comment : Designator=C39 Old Comment=2.2nF New Comment=GRM1885C1H222JA01D
+Change Component Comment : Designator=C41 Old Comment=2.2nF New Comment=GRM1885C1H222JA01D
+Change Component Comment : Designator=R1 Old Comment=2k2O New Comment=RT0603BRD072K2L
+Change Component Comment : Designator=R4 Old Comment=2k2O New Comment=RT0603BRD072K2L
+Change Component Comment : Designator=R8 Old Comment=2k2O New Comment=RT0603BRD072K2L
+Change Component Comment : Designator=R9 Old Comment=2k2O New Comment=RT0603BRD072K2L
+Change Component Comment : Designator=R10 Old Comment=2k2O New Comment=RT0603BRD072K2L
+Change Component Comment : Designator=R15 Old Comment=2k2O New Comment=RT0603BRD072K2L
+Change Component Comment : Designator=R29 Old Comment=2k2O New Comment=RT0603BRD072K2L
+Change Component Comment : Designator=R30 Old Comment=2k2O New Comment=RT0603BRD072K2L
+Change Component Comment : Designator=R31 Old Comment=2k2O New Comment=RT0603BRD072K2L
+Change Component Comment : Designator=C5 Old Comment=2U2 New Comment=GRM188R71A225KE15D
+Change Component Comment : Designator=C6 Old Comment=2U2 New Comment=GRM188R71A225KE15D
+Change Component Comment : Designator=C7 Old Comment=2U2 New Comment=GRM188R71A225KE15D
+Change Component Comment : Designator=C8 Old Comment=2U2 New Comment=GRM188R71A225KE15D
+Change Component Comment : Designator=C9 Old Comment=2U2 New Comment=GRM188R71A225KE15D
+Change Component Comment : Designator=C10 Old Comment=2U2 New Comment=GRM188R71A225KE15D
+Change Component Comment : Designator=C11 Old Comment=2U2 New Comment=GRM188R71A225KE15D
+Change Component Comment : Designator=C12 Old Comment=2U2 New Comment=GRM188R71A225KE15D
+Change Component Comment : Designator=C30 Old Comment=2U2 New Comment=GRM188R71A225KE15D
+Change Component Comment : Designator=C31 Old Comment=2U2 New Comment=GRM188R71A225KE15D
+Change Component Comment : Designator=C32 Old Comment=2U2 New Comment=GRM188R71A225KE15D
+Change Component Comment : Designator=C33 Old Comment=2U2 New Comment=GRM188R71A225KE15D
+Change Component Comment : Designator=C34 Old Comment=2U2 New Comment=GRM188R71A225KE15D
+Change Component Comment : Designator=C44 Old Comment=2U2 New Comment=GRM188R71A225KE15D
+Change Component Comment : Designator=C45 Old Comment=2U2 New Comment=GRM188R71A225KE15D
+Change Component Comment : Designator=C46 Old Comment=2U2 New Comment=GRM188R71A225KE15D
+Change Component Comment : Designator=R25 Old Comment=3.3kO New Comment=ERJ-3EKF3301V
+Change Component Comment : Designator=C13 Old Comment=4.7nF New Comment=C0603C472J5RACTU
+Change Component Comment : Designator=C14 Old Comment=4.7nF New Comment=C0603C472J5RACTU
+Change Component Comment : Designator=C15 Old Comment=4.7nF New Comment=C0603C472J5RACTU
+Change Component Comment : Designator=C16 Old Comment=4.7nF New Comment=C0603C472J5RACTU
+Change Component Comment : Designator=R32 Old Comment=4.7R New Comment=ERJ-PA3J4R7V
+Change Component Comment : Designator=R33 Old Comment=4.7R New Comment=ERJ-PA3J4R7V
+Change Component Comment : Designator=R34 Old Comment=4.7R New Comment=ERJ-PA3J4R7V
+Change Component Comment : Designator=R36 Old Comment=4.7R New Comment=ERJ-PA3J4R7V
+Change Component Comment : Designator=R37 Old Comment=4.7R New Comment=ERJ-PA3J4R7V
+Change Component Comment : Designator=R38 Old Comment=4.7R New Comment=ERJ-PA3J4R7V
+Change Component Comment : Designator=C38 Old Comment=6.8n New Comment=C0603C682J5GACTU
+Change Component Comment : Designator=R7 Old Comment=10kO New Comment=ERA-3AEB103V
+Change Component Comment : Designator=R11 Old Comment=10kO New Comment=ERA-3AEB103V
+Change Component Comment : Designator=R12 Old Comment=10kO New Comment=ERA-3AEB103V
+Change Component Comment : Designator=R13 Old Comment=10kO New Comment=ERA-3AEB103V
+Change Component Comment : Designator=R20 Old Comment=10kO New Comment=ERA-3AEB103V
+Change Component Comment : Designator=R35 Old Comment=10kO New Comment=ERA-3AEB103V
+Change Component Comment : Designator=C17 Old Comment=10uF,63V New Comment=GRM32ER71J106KA12L
+Change Component Comment : Designator=C18 Old Comment=10uF,63V New Comment=GRM32ER71J106KA12L
+Change Component Comment : Designator=C19 Old Comment=10uF,63V New Comment=GRM32ER71J106KA12L
+Change Component Comment : Designator=C20 Old Comment=10uF,63V New Comment=GRM32ER71J106KA12L
+Change Component Comment : Designator=C28 Old Comment=10uF,63V New Comment=GRM32ER71J106KA12L
+Change Component Comment : Designator=C29 Old Comment=10uF,63V New Comment=GRM32ER71J106KA12L
+Change Component Comment : Designator=C35 Old Comment=10uF,63V New Comment=GRM32ER71J106KA12L
+Change Component Comment : Designator=C37 Old Comment=10uF,63V New Comment=GRM32ER71J106KA12L
+Change Component Comment : Designator=R18 Old Comment=15kO New Comment=ERJ-3EKF1502V
+Change Component Comment : Designator=C3 Old Comment=15pF New Comment=GRM1885C1H150JA01D
+Change Component Comment : Designator=C4 Old Comment=15pF New Comment=GRM1885C1H150JA01D
+Change Component Comment : Designator=C21 Old Comment=15uF,100V New Comment=C5750X7S2A156M250KB
+Change Component Comment : Designator=C22 Old Comment=15uF,100V New Comment=C5750X7S2A156M250KB
+Change Component Comment : Designator=R24 Old Comment=18kO New Comment=ERJ3EKF1802V
+Change Component Comment : Designator=C42 Old Comment=22n New Comment=GRM188R71H223KA01D
+Change Component Comment : Designator=R2 Old Comment=22R New Comment=CRCW060322R0FKEA
+Change Component Comment : Designator=R3 Old Comment=22R New Comment=CRCW060322R0FKEA
+Change Component Comment : Designator=R14 Old Comment=39kO New Comment=RC0603FR-0739KL
+Change Component Comment : Designator=R26 Old Comment=39kO New Comment=RC0603FR-0739KL
+Change Component Comment : Designator=R27 Old Comment=39kO New Comment=RC0603FR-0739KL
+Change Component Comment : Designator=R28 Old Comment=39kO New Comment=RC0603FR-0739KL
+Change Component Comment : Designator=R39 Old Comment=39kO New Comment=RC0603FR-0739KL
+Change Component Comment : Designator=R40 Old Comment=39kO New Comment=RC0603FR-0739KL
+Change Component Comment : Designator=R41 Old Comment=39kO New Comment=RC0603FR-0739KL
+Change Component Comment : Designator=C47 Old Comment=63V,100uF New Comment=EEEFK1J101P
+Change Component Comment : Designator=C48 Old Comment=63V,100uF New Comment=EEEFK1J101P
+Change Component Comment : Designator=C49 Old Comment=63V,100uF New Comment=EEEFK1J101P
+Change Component Comment : Designator=C1 Old Comment=100nF New Comment=CGA3E2X7R1H104K080AA
+Change Component Comment : Designator=C2 Old Comment=100nF New Comment=CGA3E2X7R1H104K080AA
+Change Component Comment : Designator=C23 Old Comment=100nF New Comment=CGA3E2X7R1H104K080AA
+Change Component Comment : Designator=C26 Old Comment=100nF New Comment=CGA3E2X7R1H104K080AA
+Change Component Comment : Designator=R5 Old Comment=100R New Comment=RC0603FR-07100RL
+Change Component Comment : Designator=R6 Old Comment=100R New Comment=RC0603FR-07100RL
+Change Component Comment : Designator=R16 Old Comment=100R New Comment=RC0603FR-07100RL
+Change Component Comment : Designator=R19 Old Comment=100R New Comment=RC0603FR-07100RL
+Change Component Comment : Designator=R21 Old Comment=100R New Comment=RC0603FR-07100RL
+Change Component Comment : Designator=R22 Old Comment=100R New Comment=RC0603FR-07100RL
+Change Component Comment : Designator=C36 Old Comment=100uF New Comment=GRM32ER60J107ME20L
+Change Component Comment : Designator=C43 Old Comment=100uF New Comment=GRM32ER60J107ME20L
+Change Component Comment : Designator=C40 Old Comment=120p New Comment=C0603C121J5GACTU
+Change Component Comment : Designator=R44 Old Comment=120R New Comment=ERA-3AEB121V
+Change Component Comment : Designator=C24 Old Comment=200nF New Comment=C0805C224K1RACTU
+Change Component Comment : Designator=C25 Old Comment=200nF New Comment=C0805C224K1RACTU
+Change Component Comment : Designator=C27 Old Comment=200nF New Comment=C0805C224K1RACTU
+Change Component Comment : Designator=R23 Old Comment=220kO New Comment=ERJ-3GEYJ224V
+Change Component Comment : Designator=D2 Old Comment=BLUE New Comment=LTST-C191TBKT
+Change Component Comment : Designator=R42 Old Comment=CSS4J-4026R-L500F New Comment=WSLP27265L000FEA
+Change Component Comment : Designator=R43 Old Comment=CSS4J-4026R-L500F New Comment=WSLP27265L000FEA
+Change Component Comment : Designator=D1 Old Comment=GREEN New Comment=LTST-C190GKT
+Change Component Comment : Designator=D3 Old Comment=RED New Comment=150060RS75000
+Change Managed Component Library Link : Designator=R42 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=006CA0AD-3B51-49AD-AAAD-776F86F5FDD8 New ItemGUID= Old RevisionGUID=14BB065C-E7B5-4EA4-B411-95C45433EBE4 New RevisionGUID=
+Change Managed Component Library Link : Designator=R43 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=006CA0AD-3B51-49AD-AAAD-776F86F5FDD8 New ItemGUID= Old RevisionGUID=14BB065C-E7B5-4EA4-B411-95C45433EBE4 New RevisionGUID=
+Change component parameters: Designator = "R42" ("R42"); Footprint = "FP-CSS4J-4026-MFG"; UniqueID = "\JUKXZZIS\JNMMNEGB" ("\JUKXZZIS\JNMMNEGB")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/1/WSLP27265L000FEA.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "2.81mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Vishay"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "WSLP27265L000FEA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "71-WSLP27265L000FEA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Vishay-Dale/WSLP27265L000FEA?qs=h6V4JsTaLXeHJBxiH6kbIg%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R43" ("R43"); Footprint = "FP-CSS4J-4026-MFG"; UniqueID = "\JUKXZZIS\PGEYRNBS" ("\JUKXZZIS\PGEYRNBS")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/1/WSLP27265L000FEA.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "2.81mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Vishay"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "WSLP27265L000FEA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "71-WSLP27265L000FEA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Vishay-Dale/WSLP27265L000FEA?qs=h6V4JsTaLXeHJBxiH6kbIg%3D%3D"; VariantName = "[No Variations]"
+Added Differential Pair: Name=USB

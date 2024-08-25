@@ -1,0 +1,226 @@
+Removed Pin From Net: NetName=V_SUPPLY Pin=Q1-4
+Removed Pin From Net: NetName=H2_VS Pin=Q2-2
+Removed Pin From Net: NetName=H2_VS Pin=Q2-3
+Removed Pin From Net: NetName=V_SUPPLY Pin=Q2-4
+Removed Pin From Net: NetName=H2_VS Pin=Q2-5
+Removed Pin From Net: NetName=H2_VS Pin=Q2-6
+Removed Pin From Net: NetName=H2_VS Pin=Q2-7
+Removed Pin From Net: NetName=H3_VS Pin=Q3-2
+Removed Pin From Net: NetName=H3_VS Pin=Q3-3
+Removed Pin From Net: NetName=V_SUPPLY Pin=Q3-4
+Removed Pin From Net: NetName=H3_VS Pin=Q3-5
+Removed Pin From Net: NetName=H3_VS Pin=Q3-6
+Removed Pin From Net: NetName=H3_VS Pin=Q3-7
+Removed Pin From Net: NetName=H1_LOW Pin=Q4-2
+Removed Pin From Net: NetName=H1_LOW Pin=Q4-3
+Removed Pin From Net: NetName=H1_VS Pin=Q4-4
+Removed Pin From Net: NetName=H1_LOW Pin=Q4-5
+Removed Pin From Net: NetName=H1_LOW Pin=Q4-6
+Removed Pin From Net: NetName=H1_LOW Pin=Q4-7
+Removed Pin From Net: NetName=H2_LOW Pin=Q5-2
+Removed Pin From Net: NetName=H2_LOW Pin=Q5-3
+Removed Pin From Net: NetName=H2_VS Pin=Q5-4
+Removed Pin From Net: NetName=H2_LOW Pin=Q5-5
+Removed Pin From Net: NetName=H2_LOW Pin=Q5-6
+Removed Pin From Net: NetName=H2_LOW Pin=Q5-7
+Removed Pin From Net: NetName=H3_LOW Pin=Q6-2
+Removed Pin From Net: NetName=H3_LOW Pin=Q6-3
+Removed Pin From Net: NetName=H3_VS Pin=Q6-4
+Removed Pin From Net: NetName=H3_LOW Pin=Q6-5
+Removed Pin From Net: NetName=H3_LOW Pin=Q6-6
+Removed Pin From Net: NetName=H3_LOW Pin=Q6-7
+Removed Member From Class: ClassName=Power Stage Member=Q2
+Removed Member From Class: ClassName=Power Stage Member=Q3
+Removed Member From Class: ClassName=Power Stage Member=Q4
+Removed Member From Class: ClassName=Power Stage Member=Q5
+Removed Member From Class: ClassName=Power Stage Member=Q6
+Added Component: Designator=Q?(INF-PG-TO263-7-1_M)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.infineon.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.infineon.com/dgdl/IPB010N06N_Rev2.1.pdf?folderId=db3a304313b8b5a60113cee8763b02d7&fileId=db3a3043353fdc1601355341f17a485f"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.infineon.com/dgdl/TLE5205-2_DS_11%5B1%5D.pdf?folderId=db3a30431b3e89eb011bb632994f065b&fileId=db3a30431f848401011fc747c7a0797f&sId=db3a30433d68e984013d7d43135b5b6a"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Rev. 2.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Green"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Halogen-free"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID (max)"; Value = "180 A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IDpuls (max)"; Value = "720 A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Infineon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "7-Pin Plastic (Green) Transistor Single Outline Package, 9.25 x 10 mm Body, 1.27 mm Pitch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "PG-TO263-7-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "May-07"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packing"; Value = "Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "IPB010N06N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Polarity"; Value = "N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ptot (max)"; Value = "300 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "QG"; Value = "208 nC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RDS (on) (max)"; Value = "1 mOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rth"; Value = "0.5 K/W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RthJA (max)"; Value = "62 K/W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RthJC (max)"; Value = "0.5 K/W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VDS (max)"; Value = "60 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VGS(th) (max)"; Value = "4 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VGS(th) (min)"; Value = "2.1 V"; VariantName = "[No Variations]"
+Added Component: Designator=Q?(INF-PG-TO263-7-1_M)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.infineon.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.infineon.com/dgdl/IPB010N06N_Rev2.1.pdf?folderId=db3a304313b8b5a60113cee8763b02d7&fileId=db3a3043353fdc1601355341f17a485f"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.infineon.com/dgdl/TLE5205-2_DS_11%5B1%5D.pdf?folderId=db3a30431b3e89eb011bb632994f065b&fileId=db3a30431f848401011fc747c7a0797f&sId=db3a30433d68e984013d7d43135b5b6a"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Rev. 2.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Green"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Halogen-free"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID (max)"; Value = "180 A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IDpuls (max)"; Value = "720 A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Infineon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "7-Pin Plastic (Green) Transistor Single Outline Package, 9.25 x 10 mm Body, 1.27 mm Pitch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "PG-TO263-7-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "May-07"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packing"; Value = "Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "IPB010N06N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Polarity"; Value = "N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ptot (max)"; Value = "300 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "QG"; Value = "208 nC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RDS (on) (max)"; Value = "1 mOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rth"; Value = "0.5 K/W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RthJA (max)"; Value = "62 K/W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RthJC (max)"; Value = "0.5 K/W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VDS (max)"; Value = "60 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VGS(th) (max)"; Value = "4 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VGS(th) (min)"; Value = "2.1 V"; VariantName = "[No Variations]"
+Added Component: Designator=Q?(INF-PG-TO263-7-1_M)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.infineon.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.infineon.com/dgdl/IPB010N06N_Rev2.1.pdf?folderId=db3a304313b8b5a60113cee8763b02d7&fileId=db3a3043353fdc1601355341f17a485f"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.infineon.com/dgdl/TLE5205-2_DS_11%5B1%5D.pdf?folderId=db3a30431b3e89eb011bb632994f065b&fileId=db3a30431f848401011fc747c7a0797f&sId=db3a30433d68e984013d7d43135b5b6a"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Rev. 2.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Green"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Halogen-free"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID (max)"; Value = "180 A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IDpuls (max)"; Value = "720 A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Infineon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "7-Pin Plastic (Green) Transistor Single Outline Package, 9.25 x 10 mm Body, 1.27 mm Pitch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "PG-TO263-7-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "May-07"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packing"; Value = "Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "IPB010N06N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Polarity"; Value = "N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ptot (max)"; Value = "300 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "QG"; Value = "208 nC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RDS (on) (max)"; Value = "1 mOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rth"; Value = "0.5 K/W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RthJA (max)"; Value = "62 K/W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RthJC (max)"; Value = "0.5 K/W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VDS (max)"; Value = "60 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VGS(th) (max)"; Value = "4 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VGS(th) (min)"; Value = "2.1 V"; VariantName = "[No Variations]"
+Added Component: Designator=Q?(INF-PG-TO263-7-1_M)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.infineon.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.infineon.com/dgdl/IPB010N06N_Rev2.1.pdf?folderId=db3a304313b8b5a60113cee8763b02d7&fileId=db3a3043353fdc1601355341f17a485f"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.infineon.com/dgdl/TLE5205-2_DS_11%5B1%5D.pdf?folderId=db3a30431b3e89eb011bb632994f065b&fileId=db3a30431f848401011fc747c7a0797f&sId=db3a30433d68e984013d7d43135b5b6a"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Rev. 2.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Green"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Halogen-free"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID (max)"; Value = "180 A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IDpuls (max)"; Value = "720 A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Infineon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "7-Pin Plastic (Green) Transistor Single Outline Package, 9.25 x 10 mm Body, 1.27 mm Pitch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "PG-TO263-7-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "May-07"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packing"; Value = "Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "IPB010N06N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Polarity"; Value = "N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ptot (max)"; Value = "300 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "QG"; Value = "208 nC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RDS (on) (max)"; Value = "1 mOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rth"; Value = "0.5 K/W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RthJA (max)"; Value = "62 K/W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RthJC (max)"; Value = "0.5 K/W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VDS (max)"; Value = "60 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VGS(th) (max)"; Value = "4 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VGS(th) (min)"; Value = "2.1 V"; VariantName = "[No Variations]"
+Added Component: Designator=Q?(INF-PG-TO263-7-1_M)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.infineon.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.infineon.com/dgdl/IPB010N06N_Rev2.1.pdf?folderId=db3a304313b8b5a60113cee8763b02d7&fileId=db3a3043353fdc1601355341f17a485f"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.infineon.com/dgdl/TLE5205-2_DS_11%5B1%5D.pdf?folderId=db3a30431b3e89eb011bb632994f065b&fileId=db3a30431f848401011fc747c7a0797f&sId=db3a30433d68e984013d7d43135b5b6a"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Rev. 2.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Green"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Halogen-free"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID (max)"; Value = "180 A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IDpuls (max)"; Value = "720 A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Infineon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "7-Pin Plastic (Green) Transistor Single Outline Package, 9.25 x 10 mm Body, 1.27 mm Pitch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "PG-TO263-7-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "May-07"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packing"; Value = "Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "IPB010N06N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Polarity"; Value = "N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ptot (max)"; Value = "300 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "QG"; Value = "208 nC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RDS (on) (max)"; Value = "1 mOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rth"; Value = "0.5 K/W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RthJA (max)"; Value = "62 K/W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RthJC (max)"; Value = "0.5 K/W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VDS (max)"; Value = "60 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VGS(th) (max)"; Value = "4 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VGS(th) (min)"; Value = "2.1 V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=V_SUPPLY Pin=Q1-8
+Added Pin To Net: NetName=H1_LOW Pin=Q?-2
+Added Pin To Net: NetName=H2_LOW Pin=Q?-2
+Added Pin To Net: NetName=H2_VS Pin=Q?-2
+Added Pin To Net: NetName=H3_LOW Pin=Q?-2
+Added Pin To Net: NetName=H3_VS Pin=Q?-2
+Added Pin To Net: NetName=H1_LOW Pin=Q?-3
+Added Pin To Net: NetName=H2_LOW Pin=Q?-3
+Added Pin To Net: NetName=H2_VS Pin=Q?-3
+Added Pin To Net: NetName=H3_LOW Pin=Q?-3
+Added Pin To Net: NetName=H3_VS Pin=Q?-3
+Added Pin To Net: NetName=H1_LOW Pin=Q?-5
+Added Pin To Net: NetName=H2_LOW Pin=Q?-5
+Added Pin To Net: NetName=H2_VS Pin=Q?-5
+Added Pin To Net: NetName=H3_LOW Pin=Q?-5
+Added Pin To Net: NetName=H3_VS Pin=Q?-5
+Added Pin To Net: NetName=H1_LOW Pin=Q?-6
+Added Pin To Net: NetName=H2_LOW Pin=Q?-6
+Added Pin To Net: NetName=H2_VS Pin=Q?-6
+Added Pin To Net: NetName=H3_LOW Pin=Q?-6
+Added Pin To Net: NetName=H3_VS Pin=Q?-6
+Added Pin To Net: NetName=H1_LOW Pin=Q?-7
+Added Pin To Net: NetName=H2_LOW Pin=Q?-7
+Added Pin To Net: NetName=H2_VS Pin=Q?-7
+Added Pin To Net: NetName=H3_LOW Pin=Q?-7
+Added Pin To Net: NetName=H3_VS Pin=Q?-7
+Added Pin To Net: NetName=H1_VS Pin=Q?-8
+Added Pin To Net: NetName=H2_VS Pin=Q?-8
+Added Pin To Net: NetName=H3_VS Pin=Q?-8
+Added Pin To Net: NetName=V_SUPPLY Pin=Q?-8
+Added Pin To Net: NetName=V_SUPPLY Pin=Q?-8
+Added Pin To Net: NetName=NetQ?_1 Pin=Q?-1
+Added Pin To Net: NetName=NetQ?_1 Pin=R33-2
+Added Net: Name=NetQ?_1
+Add Net: Net with name "NetQ?_1" already exists
+Add Net: Net with name "NetQ?_1" already exists
+Add Net: Net with name "NetQ?_1" already exists
+Added Member To Class: ClassName=Power Stage Member=Component C? 63V,100uF
+Added Member To Class: ClassName=Power Stage Member=Component C? 63V,100uF
+Added Member To Class: ClassName=Power Stage Member=Component Q? IPB010N06N
+Added Member To Class: ClassName=Power Stage Member=Component Q? IPB010N06N
+Added Member To Class: ClassName=Power Stage Member=Component Q? IPB010N06N
+Added Member To Class: ClassName=Power Stage Member=Component Q? IPB010N06N
+Added Member To Class: ClassName=Power Stage Member=Component Q? IPB010N06N
+Added Member To Class: ClassName=GATE Driver Member=Component TP? Test point

@@ -1,0 +1,32 @@
+Removed Pin From Net: NetName=VCC Pin=U4-1
+Removed Pin From Net: NetName=NetC45_1 Pin=U4-2
+Change Component Footprint: Designator=U4 Old Footprint=NTCS0603_VIS New Footprint=NTCS0805_VIS
+Change Component Comment : Designator=U4 Old Comment=NTCS0603E3103HMT New Comment=NTCS0805E3103GMT
+Change Component Designator: OldDesignator=R? NewDesignator=R42
+Change Component Designator: OldDesignator=R? NewDesignator=R43
+Change Managed Component Library Link : Designator=U4 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=81A592DA-DCA6-4EBF-9A8B-F65C480D9883 New ItemGUID=6CA2C56A-7D0C-4100-8AF7-20F80F5C2F15 Old RevisionGUID=26FA4455-8531-4C4F-906E-446726521979 New RevisionGUID=6E50E335-C797-4409-AA10-7164B5333493
+Change component parameters: Designator = "U4" ("U4"); Footprint = "NTCS0603_VIS"; UniqueID = "\JUKXZZIS\SKCDMNJH" ("\JUKXZZIS\SKCDMNJH")
+Change component parameters (AddParameter): Name = "Accuracy"; Value = "3%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Code (Imperial)"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Code (Metric)"; Value = "2012"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Depth"; Value = "1.25mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "2mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "150°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Power Dissipation"; Value = "210mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "NexarPartId"; Value = "42801496"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Digi-Reel®"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power Rating"; Value = "210mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "10kO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Schedule B"; Value = "8533400080, 8533400080"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "2%"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC45_1 Pin=U4-1
+Added Pin To Net: NetName=VCC Pin=U4-2
+Added Member To Class: ClassName=Power Stage Member=Component R42 WSLP27265L000FEA

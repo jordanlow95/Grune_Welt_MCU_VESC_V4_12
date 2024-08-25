@@ -1,0 +1,10 @@
+Removed Member From Class: ClassName=GATE Driver Member=TP1
+Removed Member From Class: ClassName=GATE Driver Member=TP2
+Added Component: Designator=TP?(Test point)
+Add component (AddParameter): Name = "value"; Value = "Test point"; VariantName = "[No Variations]"
+Added Component: Designator=TP?(Test point)
+Add component (AddParameter): Name = "value"; Value = "Test point"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5 Pin=TP?-TP?
+Added Pin To Net: NetName=V_SUPPLY Pin=TP?-TP?
+Added Member To Class: ClassName=GATE Driver Member=Component TP? Test point
+Added Member To Class: ClassName=GATE Driver Member=Component TP? Test point

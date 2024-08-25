@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=CURR_1_P Pin=R16-1
+Removed Pin From Net: NetName=CURR_1_N Pin=R19-1
+Removed Pin From Net: NetName=CURR_2_P Pin=R21-1
+Removed Pin From Net: NetName=CURR_2_N Pin=R22-1
+Removed Pin From Net: NetName=H2_LOW Pin=U3-4
+Change Component Comment : Designator=R35 Old Comment=ERA-3AEB103V New Comment=10k
+Change Component Comment : Designator=R34 Old Comment=ERJ-PA3J4R7V New Comment=4R7
+Change Component Comment : Designator=C12 Old Comment=GRM188R71A225KE15D New Comment=2u2
+Change Component Comment : Designator=C45 Old Comment=GRM188R71A225KE15D New Comment=2u2
+Added Pin To Net: NetName=CURR_2_P Pin=R16-1
+Added Pin To Net: NetName=CURR_2_N Pin=R19-1
+Added Pin To Net: NetName=CURR_1_P Pin=R21-1
+Added Pin To Net: NetName=CURR_1_N Pin=R22-1
+Added Pin To Net: NetName=VCC Pin=U3-4

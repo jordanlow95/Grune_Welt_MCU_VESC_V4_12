@@ -1,0 +1,152 @@
+Removed Pin From Net: NetName=H1_VS Pin=C24-2
+Removed Pin From Net: NetName=H1_VS Pin=P3-P?
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=H3_LOW Pin=Q?-2
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=H3_LOW Pin=Q?-3
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=H3_LOW Pin=Q?-5
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=H3_LOW Pin=Q?-6
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=H3_LOW Pin=Q?-7
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=H3_VS Pin=Q?-8
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=H1_VS Pin=R26-2
+Removed Pin From Net: NetName=NetQ1_1 Pin=R32-2
+Removed Pin From Net: NetName=H1_VS Pin=U2-46
+Removed Member From Class: ClassName=Power Stage Member=Q?
+Change Component Footprint: Designator=Q1 Old Footprint=INF-PG-TO263-7-1_M New Footprint=PG-TO263-7-3_3
+Change Component Designator: OldDesignator=C? NewDesignator=C47
+Change Component Designator: OldDesignator=C? NewDesignator=C48
+Change Component Designator: OldDesignator=C? NewDesignator=C49
+Change Component Designator: OldDesignator=TP? NewDesignator=TP1
+Change Component Designator: OldDesignator=TP? NewDesignator=TP2
+Change Managed Component Library Link : Designator=Q1 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=BB83A4CE-C2E5-4C3A-AABC-5EE09304987F New ItemGUID= Old RevisionGUID=F0917E15-6DAF-4BDF-AB4E-EBA842D04E96 New RevisionGUID=
+Change component parameters: Designator = "Q1" ("Q1"); Footprint = "INF-PG-TO263-7-1_M"; UniqueID = "\JUKXZZIS\ZLYXPUBN" ("\JUKXZZIS\ZLYXPUBN")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.infineon.com/dgdl/Infineon-IPB010N06N-DS-v02_04-EN.pdf?fileId=db3a3043353fdc1601355341f17a485f"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Infineon"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "IPB010N06N"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "726-IPB010N06N"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Infineon-Technologies/IPB010N06N?qs=EUA%2Fg8wssK3txpgcjG7wiw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=Q2(PG-TO263-7-3_3)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.infineon.com/dgdl/Infineon-IPB010N06N-DS-v02_04-EN.pdf?fileId=db3a3043353fdc1601355341f17a485f"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Infineon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "IPB010N06N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "726-IPB010N06N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Infineon-Technologies/IPB010N06N?qs=EUA%2Fg8wssK3txpgcjG7wiw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=Q3(PG-TO263-7-3_3)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.infineon.com/dgdl/Infineon-IPB010N06N-DS-v02_04-EN.pdf?fileId=db3a3043353fdc1601355341f17a485f"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Infineon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "IPB010N06N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "726-IPB010N06N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Infineon-Technologies/IPB010N06N?qs=EUA%2Fg8wssK3txpgcjG7wiw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=Q4(PG-TO263-7-3_3)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.infineon.com/dgdl/Infineon-IPB010N06N-DS-v02_04-EN.pdf?fileId=db3a3043353fdc1601355341f17a485f"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Infineon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "IPB010N06N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "726-IPB010N06N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Infineon-Technologies/IPB010N06N?qs=EUA%2Fg8wssK3txpgcjG7wiw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=Q5(PG-TO263-7-3_3)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.infineon.com/dgdl/Infineon-IPB010N06N-DS-v02_04-EN.pdf?fileId=db3a3043353fdc1601355341f17a485f"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Infineon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "IPB010N06N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "726-IPB010N06N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Infineon-Technologies/IPB010N06N?qs=EUA%2Fg8wssK3txpgcjG7wiw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=Q6(PG-TO263-7-3_3)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.infineon.com/dgdl/Infineon-IPB010N06N-DS-v02_04-EN.pdf?fileId=db3a3043353fdc1601355341f17a485f"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Infineon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "IPB010N06N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "726-IPB010N06N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Infineon-Technologies/IPB010N06N?qs=EUA%2Fg8wssK3txpgcjG7wiw%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=H1_VS Pin=C25-2
+Added Pin To Net: NetName=H1_VS Pin=P4-P?
+Added Pin To Net: NetName=H3_VS Pin=Q2-2
+Added Pin To Net: NetName=H3_VS Pin=Q2-3
+Added Pin To Net: NetName=H3_VS Pin=Q2-5
+Added Pin To Net: NetName=H3_VS Pin=Q2-6
+Added Pin To Net: NetName=H3_VS Pin=Q2-7
+Added Pin To Net: NetName=V_SUPPLY Pin=Q2-8
+Added Pin To Net: NetName=V_SUPPLY Pin=Q3-8
+Added Pin To Net: NetName=H3_LOW Pin=Q4-2
+Added Pin To Net: NetName=H3_LOW Pin=Q4-3
+Added Pin To Net: NetName=H3_LOW Pin=Q4-5
+Added Pin To Net: NetName=H3_LOW Pin=Q4-6
+Added Pin To Net: NetName=H3_LOW Pin=Q4-7
+Added Pin To Net: NetName=H3_VS Pin=Q4-8
+Added Pin To Net: NetName=H1_LOW Pin=Q5-2
+Added Pin To Net: NetName=H1_LOW Pin=Q5-3
+Added Pin To Net: NetName=H1_LOW Pin=Q5-5
+Added Pin To Net: NetName=H1_LOW Pin=Q5-6
+Added Pin To Net: NetName=H1_LOW Pin=Q5-7
+Added Pin To Net: NetName=H2_LOW Pin=Q6-2
+Added Pin To Net: NetName=H2_LOW Pin=Q6-3
+Added Pin To Net: NetName=H2_LOW Pin=Q6-5
+Added Pin To Net: NetName=H2_LOW Pin=Q6-6
+Added Pin To Net: NetName=H2_LOW Pin=Q6-7
+Added Pin To Net: NetName=H1_VS Pin=Q6-8
+Added Pin To Net: NetName=H1_VS Pin=R27-2
+Added Pin To Net: NetName=NetQ1_1 Pin=R33-2
+Added Pin To Net: NetName=H1_VS Pin=U2-41
+Change Net Name : Old Net Name=H1_VS New Net Name=H2_VS
+Added Pin To Net: NetName=H1_VS Pin=C24-2
+Added Pin To Net: NetName=H1_VS Pin=P3-P?
+Added Pin To Net: NetName=H1_VS Pin=Q3-2
+Added Pin To Net: NetName=H1_VS Pin=Q3-3
+Added Pin To Net: NetName=H1_VS Pin=Q3-5
+Added Pin To Net: NetName=H1_VS Pin=Q3-6
+Added Pin To Net: NetName=H1_VS Pin=Q3-7
+Added Pin To Net: NetName=H1_VS Pin=Q5-8
+Added Pin To Net: NetName=H1_VS Pin=R26-2
+Added Pin To Net: NetName=H1_VS Pin=U2-46
+Added Net: Name=H1_VS
+Added Pin To Net: NetName=NetQ2_1 Pin=Q2-1
+Added Pin To Net: NetName=NetQ2_1 Pin=R34-2
+Added Net: Name=NetQ2_1
+Added Pin To Net: NetName=NetQ3_1 Pin=Q3-1
+Added Pin To Net: NetName=NetQ3_1 Pin=R32-2
+Added Net: Name=NetQ3_1
+Added Pin To Net: NetName=NetQ4_1 Pin=Q4-1
+Added Pin To Net: NetName=NetQ4_1 Pin=R38-2
+Added Pin To Net: NetName=NetQ4_1 Pin=R41-1
+Added Net: Name=NetQ4_1
+Added Pin To Net: NetName=NetQ5_1 Pin=Q5-1
+Added Pin To Net: NetName=NetQ5_1 Pin=R36-2
+Added Pin To Net: NetName=NetQ5_1 Pin=R39-1
+Added Net: Name=NetQ5_1
+Added Pin To Net: NetName=NetQ6_1 Pin=Q6-1
+Added Pin To Net: NetName=NetQ6_1 Pin=R37-2
+Added Pin To Net: NetName=NetQ6_1 Pin=R40-2
+Added Net: Name=NetQ6_1
+Added Member To Class: ClassName=Power Stage Member=Component C47 63V,100uF
+Added Member To Class: ClassName=Power Stage Member=Component C48 63V,100uF
+Added Member To Class: ClassName=Power Stage Member=Component Q2 IPB010N06N
+Added Member To Class: ClassName=Power Stage Member=Component Q3 IPB010N06N
+Added Member To Class: ClassName=Power Stage Member=Component Q4 IPB010N06N
+Added Member To Class: ClassName=Power Stage Member=Component Q5 IPB010N06N
+Added Member To Class: ClassName=Power Stage Member=Component Q6 IPB010N06N
+Added Member To Class: ClassName=GATE Driver Member=Component TP1 Test point
