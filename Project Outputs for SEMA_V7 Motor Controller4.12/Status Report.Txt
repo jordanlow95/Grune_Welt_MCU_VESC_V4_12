@@ -1,0 +1,10 @@
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of Project [SEMA_V7 Motor Controller4.12.PrjPcb]
+   Generated File[Bill of Materials-SEMA_V7 Motor Controller4.12.xlsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 10:11:01 pm On 06/12/2025
